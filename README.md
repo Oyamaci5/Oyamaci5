@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yamacı</h1>
-<h3 align="center">A passionate Game developer from Turkey</h3>
+<h3 align="center">A passionate Software/Game Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Unity/Fishnet**
 
