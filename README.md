@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fishnet**
 
-- 💬 Ask me about **algorithms, I love working with them. Also I had created 3 website with PHP, i guess i can answer question about PHP and Fishnet**
+- 💬 Ask me about **algorithms, I love working with them. Also I had created 3 website with PHP, I can answer question about PHP and Fishnet**
 
 - 📫 How to reach me **oguzhanyamaci175@gmail.com**
 
