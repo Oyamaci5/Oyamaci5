@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yamacı</h1>
 <h3 align="center">A passionate Software/Game Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Unity/Fishnet**
+- 🔭 I’m currently working on **.Net**
 
-- 🌱 I’m currently learning **Fishnet**
+- 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **algorithms, I love working with them. Also I had created 3 website with PHP, I can answer question about PHP and Fishnet**
 
